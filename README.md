@@ -9,6 +9,7 @@ status-stalker
 * future - would be nice to have a google + hangouts type desktop app (something that doesn’t require a lot of real-estate)
     * how difficult would it be to build a quick mozilla/chrome browser plugin?
 * TODO: integrate with emails, txt messages, google hangouts, hipchat, irc, expose as API
+
 ##What is a status update built on:
 * task label/title
 * link to project management task (e.g. JIRA item)
