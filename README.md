@@ -10,8 +10,14 @@ status-stalker
     * how difficult would it be to build a quick mozilla/chrome browser plugin?
 * TODO: integrate with emails, txt messages, google hangouts, hipchat, irc, expose as API
 
-##What is a status update built on:
+##What is a status update composed of:
 * task label/title
 * link to project management task (e.g. JIRA item)
 * status update (or just a checkbox for no update)
 * poll reminder
+
+###Use Cases:
+* sprint planning - members create their tasks for a sprint
+* system pings team member for a status update if they've not already updated
+* system sends all status updates out to team (via preferred communication method)
+* if team member lists a blocker, we can send notification alerts to the team asking for feedback.
